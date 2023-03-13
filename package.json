@@ -2,6 +2,7 @@
   "name": "@hustcer/dumi-demo",
   "version": "0.0.1",
   "description": "A react library developed with dumi",
+  "type": "module",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
